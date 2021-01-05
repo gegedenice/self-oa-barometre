@@ -180,7 +180,7 @@ Une fois les données OA récupérées, la page [Visualisations](/viz) permet d'
 
 Cette application est réalisée avec le framework Python d'application web Dash, qui est lui-même construit sur Flask, Plotly et React.
 
-Pour une installation en local, le code source est accessible ici : [https://github.com/gegedenice/pybso-dash-app](https://github.com/gegedenice/pybso-dash-app)
+Pour une installation en local, le code source est accessible ici : [https://github.com/gegedenice/self-oa-barometre](https://github.com/gegedenice/self-oa-barometre)
 '''),])
 ## data harvest page
 data_content = html.Div([html.H3("Obtenir les données OA"),
